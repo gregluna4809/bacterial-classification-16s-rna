@@ -1,3 +1,12 @@
+
+# Bacterial Genus Classification from 16S rRNA Sequences
+
+## Project Summary
+
+[📄 View Project Summary Poster](docs/images/project-summary-banner.pdf)
+
+---
+
 # Bacterial Genus Classification from 16S rRNA Sequences
 
 > A reproducible machine learning pipeline for classifying bacterial genera using k-mer feature engineering, dimensionality reduction, and GPU-accelerated gradient boosting.
