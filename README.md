@@ -1,7 +1,9 @@
 
 # Bacterial Genus Classification from 16S rRNA Sequences
 
-## Project Summary
+![Project Summary](docs/images/project-summary-banner.png)
+
+---
 
 [📄 View Project Summary Poster](docs/images/project-summary-banner.pdf)
 
